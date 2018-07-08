@@ -14,7 +14,7 @@ Section 2:
 
 Section 3: 
 
-a) EclEmma scan Snapshot 
+a) Sonar scan Snapshot: Not have SonarQube/sonarlint on my machine 
 
 b) https://github.com/arunupadhyay05/arun_interview_solution/blob/master/ApplicationOutput.JPG
 
