@@ -8,9 +8,10 @@ Section 1
 
 Section 2: 
 
-	Build IDE: Version: Kepler Service Release 1, Build id: 20130919-0819
+	Build IDE: Version: Kepler Service Release 1, Build id: 20130919-0819, install Spring Tool Suite plugin
 	JDK Version: java version "1.8"
 	Application Type: Spring Boot Application
+	How to Run: Run application as "Spring Boot App" option 
 
 Section 3: 
 
