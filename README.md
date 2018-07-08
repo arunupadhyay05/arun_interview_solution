@@ -11,9 +11,12 @@ Section 2:
 
 Section 3 
 a)	EclEmma scan Snapshot 
+
 b)	https://github.com/arunupadhyay05/arun_interview_solution/blob/master/ApplicationOutput.JPG
+
 c)	https://github.com/arunupadhyay05/arun_interview_solution/blob/master/JcoverageSnapShot.JPG
-Note: (You can link directly to the raw version of an image from your image folder. Hence from section 1.1 if your GIT Link is : https://github.com/nescafe2018/intrvw_sq , then you can have the following text in your readme ![SonarLint] (https://github.com/nescafe2018/intrvw_sq/<Link of you image) )
+
+
 
 Section 4 
 Licensing 
